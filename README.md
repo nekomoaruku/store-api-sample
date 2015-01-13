@@ -1,1 +1,1 @@
-# store-api-sample
+Store API Sample
